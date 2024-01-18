@@ -15,8 +15,7 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo0272&layout=donut)][!https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfredo0272](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfredo0272)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo0272&layout=donut)] ![image]https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfredo0272
 ## Top technologies
 
 ### Front-End
