@@ -15,7 +15,7 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ## Stats
 
-[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfredo0272]
+[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Alfredo0272}](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfredo0272)
 
 ## Top technologies
 
