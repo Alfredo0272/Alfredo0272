@@ -13,7 +13,9 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 - 📫 How to reach me: alfloz01@ucm.es
 - ⚡ Fun fact: I am a person who loves to learn new things and I make my own homemade beer with excellent results as other people have said!
 
+## Stats
 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Alfredo0272}&theme={dark}
 
 ## Top technologies
 
