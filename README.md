@@ -12,6 +12,7 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: eliasmartinrivas@gmail.com
 - ⚡ Fun fact: I am a person who loves to learn new things and I make my own homemade beer with excellent results as other people have said!
+- check my playlist https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 
 
 ## Top technologies
