@@ -13,9 +13,6 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 - 📫 How to reach me: eliasmartinrivas@gmail.com
 - ⚡ Fun fact: I am a person who loves to learn new things and I make my own homemade beer with excellent results as other people have said!
 
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmr98&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![eliasmr98's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmr98&rank_icon=github&show=prs_merged)
 
 ## Top technologies
 
