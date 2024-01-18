@@ -8,7 +8,7 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ## What I currently Do
 
-- 🔭 I am currently studying the Next.js framework and SQL to solidify my skills as a full-stack developer and explore new technologies
+- 🔭 I am currently studying Angular and SQL to solidify my skills as a full-stack developer and explore new technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: alfloz01@ucm.es
 - ⚡ Fun fact: I am a person who loves to learn new things and I make my own homemade beer with excellent results as other people have said!
