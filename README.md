@@ -26,7 +26,7 @@ I'm Alfredo Lozano a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ### Back-End
 
-![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Expressjs Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B) ![Render Logo](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&labelColor=black&logo=render&logoColor=46E3B7)
+![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Expressjs Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B) ![Render Logo](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&labelColor=black&logo=render&logoColor=46E3B7) ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png?f=webp" min-width="330px" max-width="330px" width="330px" align="right" alt="Programmer illustration">
 
